@@ -104,3 +104,20 @@
     font-size: 20px;
     color:#103360;
   }
+
+
+@media(max-width:600px){
+    .text{
+        width:80%;
+    }
+    input{
+        width:278px;
+    }
+    li{
+            width: 325px;
+    height: 58px;
+    }
+    .items{
+        margin-top:22px;
+    }
+}
